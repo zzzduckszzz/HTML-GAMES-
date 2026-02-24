@@ -3,7 +3,7 @@
   <button class="play-button" type="button" onclick="PlayTo(this)" style="display: none;">CLICK TO PLAY</button>
   <button class="play-official-button" type="button" onclick="playOfficial()" style="display: none;">PLAY OFFICIAL</button>
   <p id="unblocked-text">G+</p>
-  <button class="fullscreen-button" type="button" onclick="openFullscreen()">FULLSCREEN</button>
+  <button class="fullscreen-button" type="button" onclick="openFullscreen()">click here</button>
 </div>
 
 <style>
